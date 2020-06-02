@@ -29,7 +29,7 @@ Reach out to me at one of the following places!
 
 ## Donations 
 
-- You could buy me coffee at <a href="https://www.buymeacoffee.com/JoanNabusoba" target="_blank">BuyMeCoffee</a> as well.
+- You could buy me coffee at <a href="https://www.buymeacoffee.com/6VD3dpI" target="_blank">Buy Me Coffee</a> as well.
 
 
 ## License
