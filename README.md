@@ -1,42 +1,16 @@
-# Flutter Food Ordering App UI
+# food_ordering_app
 
+A new Flutter project.
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## The Inspiration
+A few resources to get you started if this is your first Flutter project:
 
-- The UI was inspired by Uplabs from https://www.uplabs.com/posts/on-demand-fruit-and-vegetable-app
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-
-### Setup
-
-- Install Flutter or go to flutter.dev to set it up.
-- Import the project 
-
-
-## Inspiration, Support and Encouragement
-
-> I was inspired to create these UI by Badru who is my mentor and my cheerleader. He encouraged me to create UIs :) 
-
-
-## Support
-
-Reach out to me at one of the following places!
-
-- LinkedIn at <a href="https://www.linkedin.com/in/joan-nabusoba-b862969b/" target="_blank">`My LinkedIn Profile`</a>
-- Twitter at <a href="http://twitter.com/joannabusoba" target="_blank">`@joannabusoba`</a>
-
----
-
-## Donations 
-
-- You support me by buying me coffee at <a href="https://www.buymeacoffee.com/JoanNabusoba" target="_blank">BuyMeCoffee</a> 
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © SuluhuTex.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
